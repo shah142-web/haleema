@@ -1,0 +1,1 @@
+alert("hamara kam class me mou band kar ke bethna hai")
